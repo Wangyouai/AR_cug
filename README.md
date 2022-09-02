@@ -1,5 +1,9 @@
 # 基于增强现实人际交互的机器人示教系统---实机展示
 
+![image-20220902231425466](https://gitee.com/wang-youai/image/raw/master/img/image-20220902231425466.png)
+
+![image-20220902231334016](https://gitee.com/wang-youai/image/raw/master/img/image-20220902231334016.png)
+
 
 
 **项目简介**：中车株洲电力机车有限公司研发项目“机器视觉在轨道交通装备制造过程的应用研究”（2018GY121），
